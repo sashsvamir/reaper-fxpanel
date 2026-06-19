@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/index.xml
 
 **4. Install FXPanel** — Extensions → ReaPack → Browse packages → search for **FXPanel** → Install → restart REAPER.
 
-**5. Open the panel** — Actions → Show action list → search for **FXPanel** → double-click to run. Optionally assign a keyboard shortcut.
+**5. Open the panel** — Actions → Show action list → search for **FXPanel** → double-click to run. Optionally assign a keyboard shortcut or drag the action onto a toolbar button.
 
 
 ## Support

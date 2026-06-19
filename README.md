@@ -1,5 +1,7 @@
 # FXPanel for Reaper
 
+![FXPanel](main_window_preview.jpg)
+
 A quick-access floating panel for adding your favorite FX to tracks in REAPER —
 drag-and-drop layout, per-button images, and a built-in FX browser.
 

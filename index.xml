@@ -2,7 +2,7 @@
 <index version="1" name="FXPanel">
   <category name="FXPanel">
     <reapack name="FXPanel.lua" type="script" desc="FXPanel for Reaper">
-      <version name="1.0.1" author="Alexander Shchukin" time="2026-06-19T10:31:38Z">
+      <version name="1.0.1" author="Alexander Shchukin" time="2026-06-19T15:23:43Z">
         <source main="main">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/FXPanel.lua</source>
         <source file="dist/Data/main.lua">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/dist/Data/main.lua</source>
         <source file="FXPanel_defaults/comp.jpg">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/FXPanel_defaults/comp.jpg</source>
@@ -22,7 +22,9 @@
         <source file="FXPanel_defaults/wide.jpg">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/FXPanel_defaults/wide.jpg</source>
       </version>
       <metadata>
-        <description><![CDATA[Quick-access floating panel for adding your favorite FX to tracks: drag-and-drop layout, per-button images, built-in FX browser. Free; an optional supporter license removes the donation reminder.]]></description>
+        <description><![CDATA[Quick-access floating panel for adding your favorite FX to tracks: drag-and-drop layout, per-button images, built-in FX browser. Free; an optional supporter license removes the donation reminder.
+
+Requires: ReaImGui extension (install via ReaPack: Browse packages → search "ReaImGui").]]></description>
         <link rel="website">https://9938631577640.gumroad.com/l/gkkgxj</link>
       </metadata>
     </reapack>

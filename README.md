@@ -29,7 +29,7 @@ drag-and-drop layout, per-button images, and a built-in FX browser.
 
 ## Install
 
-**1. Install ReaPack** (if you don't have it) — follow the [installation guide](https://reapack.com/user-guide#installation).
+**1. Install ReaPack** (if you don't have it) — [download](https://reapack.com) · [installation guide](https://reapack.com/user-guide#installation).
 
 **2. Install ReaImGui** — in REAPER: Extensions → ReaPack → Browse packages → search for **ReaImGui** → Install → restart REAPER.
 

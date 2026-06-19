@@ -24,16 +24,23 @@ drag-and-drop layout, per-button images, and a built-in FX browser.
 ## Requirements
 
 - **REAPER 7+**
-- **ReaImGui** extension (install via ReaPack: Extensions → ReaPack → Browse packages)
+- **ReaImGui** extension — install it first via ReaPack (step 1 below)
 
 
 ## Install
 
-Via ReaPack — import this repository's index URL, then find **FXPanel
-for Reaper** in the package list and install.
+**1. Install ReaPack** (if you don't have it) — download from [reapack.com](https://reapack.com) and follow the instructions there.
 
-Then bind it to a key or toolbar button: Actions → Show action list →
-find *FXPanel* → add shortcut.
+**2. Install ReaImGui** — in REAPER: Extensions → ReaPack → Browse packages → search for **ReaImGui** → Install → restart REAPER.
+
+**3. Add FXPanel repository** — Extensions → ReaPack → Import repositories → paste this URL:
+```
+https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/index.xml
+```
+
+**4. Install FXPanel** — Extensions → ReaPack → Browse packages → search for **FXPanel** → Install → restart REAPER.
+
+**5. Open the panel** — Actions → Show action list → search for **FXPanel** → double-click to run. Optionally assign a keyboard shortcut.
 
 
 ## Support

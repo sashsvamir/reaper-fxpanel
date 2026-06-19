@@ -2,7 +2,7 @@
 <index version="1" name="FXPanel">
   <category name="FXPanel">
     <reapack name="FXPanel.lua" type="script" desc="FXPanel for Reaper">
-      <version name="1.0.0" author="Alexander Shchukin" time="2026-06-19T08:45:05Z">
+      <version name="1.0.1" author="Alexander Shchukin" time="2026-06-19T10:31:38Z">
         <source main="main">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/FXPanel.lua</source>
         <source file="dist/Data/main.lua">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/dist/Data/main.lua</source>
         <source file="FXPanel_defaults/comp.jpg">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/FXPanel_defaults/comp.jpg</source>

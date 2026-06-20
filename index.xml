@@ -2,7 +2,7 @@
 <index version="1" name="FXPanel">
   <category name="FXPanel">
     <reapack name="FXPanel.lua" type="script" desc="FXPanel for Reaper">
-      <version name="1.0.5" author="Alexander Shchukin" time="2026-06-20T08:44:57Z">
+      <version name="1.0.5" author="Alexander Shchukin" time="2026-06-20T08:56:15Z">
         <source main="main">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/FXPanel.lua</source>
         <source file="dist/Data/main.lua">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/dist/Data/main.lua</source>
         <source file="FXPanel_defaults/comp.jpg">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/FXPanel_defaults/comp.jpg</source>
@@ -26,14 +26,14 @@
 \widowctrl\hyphauto
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 FXPanel for Reaper\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Quick-access floating panel for adding your favorite FX to tracks in REAPER \emdash drag-and-drop layout, per-button images, and a built-in FX browser.\par}
+{\pard \ql \f0 \sa120 \li0 \fi0 \b Requirements\b0\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b ReaImGui} extension (free) \emdash install via ReaPack: Browse packages > search {\i ReaImGui} > Install > restart REAPER.\par}
 {\pard \ql \f0 \sa120 \li0 \fi0 \b Features\b0\par}
 {\pard \ql \f0 \sa60 \li360 \fi-360 - One-click insertion of VST, VST3, AU and CLAP plugins onto tracks\par}
 {\pard \ql \f0 \sa60 \li360 \fi-360 - Drag-and-drop button layout, freely resizable panel\par}
 {\pard \ql \f0 \sa60 \li360 \fi-360 - Per-button PNG/JPEG thumbnails\par}
 {\pard \ql \f0 \sa60 \li360 \fi-360 - Built-in FX browser with search and folder filtering\par}
 {\pard \ql \f0 \sa180 \li360 \fi-360 - Layout and images persist across REAPER restarts\par}
-{\pard \ql \f0 \sa120 \li0 \fi0 \b Requirements\b0\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 {\b ReaImGui} extension \emdash install it first via ReaPack: Browse packages > search {\i ReaImGui} > Install > restart REAPER.\par}
 {\pard \ql \f0 \sa120 \li0 \fi0 \b Support\b0\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Free to use. An optional supporter license (available on Gumroad) removes the donation reminder and supports continued development.\par}
 }]]></description>

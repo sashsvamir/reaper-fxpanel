@@ -1,0 +1,16 @@
+title: FXPanel for Reaper
+
+intro: Quick-access floating panel for adding your favorite FX to tracks in REAPER — drag-and-drop layout, per-button images, and a built-in FX browser.
+
+section!: Requirements
+**ReaImGui** extension (free) — install via ReaPack: Browse packages > search _ReaImGui_ > Install > restart REAPER.
+
+section: Features
+- One-click insertion of VST, VST3, AU and CLAP plugins onto tracks
+- Drag-and-drop button layout, freely resizable panel
+- Per-button PNG/JPEG thumbnails
+- Built-in FX browser with search and folder filtering
+- Layout and images persist across REAPER restarts
+
+section: Support
+Free to use. An optional supporter license (available on Gumroad) removes the donation reminder and supports continued development.

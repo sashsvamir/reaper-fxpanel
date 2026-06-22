@@ -20,6 +20,9 @@ drag-and-drop layout, per-button images, and a built-in FX browser.
 
 ![FXPanel window](window_preview.png)
 
+![Drag your favorite plugins straight onto any track](gif/add-to-track.gif)
+*Drag your favorite plugins straight onto any track*
+
 
 ## Requirements
 

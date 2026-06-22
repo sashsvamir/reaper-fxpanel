@@ -13,7 +13,7 @@ drag-and-drop layout, per-button images, and a built-in FX browser.
 
 ## Features
 
-#### Add your favorite plugins straight onto any track:
+#### Add your favorite plugins straight onto any track (click or drag — whatever you prefer):
 
 ![Add your favorite plugins straight onto any track](gif/add-to-track.gif)
 

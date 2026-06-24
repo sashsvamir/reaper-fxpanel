@@ -90,3 +90,5 @@ https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/index.xml
 
 This panel is free. If it saves you time, you can support development on
 [Gumroad](https://9938631577640.gumroad.com/l/gkkgxj).
+
+Discussion and feedback: [REAPER forum thread](https://forum.cockos.com/showthread.php?p=2948561#post2948561).

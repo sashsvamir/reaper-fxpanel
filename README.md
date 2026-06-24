@@ -18,7 +18,9 @@ drag-and-drop layout, per-button images, and a built-in FX browser.
 ![Launch the panel from any toolbar button or keyboard shortcut](gif/Timeline%20-%201%20open%20panel.gif)
 
 
-#### Build your plugin palette — attach your own image or pick from built-in icons:
+#### Add your favorite plugins to the panel — effects, synths, anything you reach for:
+
+Attach a custom image to each button (JPEG/PNG supported), or choose from built-in icons.
 
 ![Add plugins with custom images or built-in icons](gif/Timeline%20-%202%20create%20btn.gif)
 

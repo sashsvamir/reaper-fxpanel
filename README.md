@@ -13,9 +13,39 @@ drag-and-drop layout, per-button images, and a built-in FX browser.
 
 ## Features
 
-#### Add your favorite plugins straight onto any track (click or drag — whatever you prefer):
+#### Launch from any toolbar button or keyboard shortcut:
 
-![Add your favorite plugins straight onto any track](gif/add-to-track.gif)
+![Launch the panel from any toolbar button or keyboard shortcut](gif/Timeline%20-%201%20open%20panel.gif)
+
+
+#### Build your plugin palette — attach your own image or pick from built-in icons:
+
+![Add plugins with custom images or built-in icons](gif/Timeline%20-%202%20create%20btn.gif)
+
+
+#### Drop any plugin onto the active track — click or drag, whichever feels faster:
+
+![Drop any plugin onto the active track](gif/Timeline%20-%203%20add%20to%20track.gif)
+
+
+#### Add text labels for section headers or quick notes:
+
+![Add text labels](gif/Timeline%20-%204%20create%20text.gif)
+
+
+#### Resize buttons to fit your workflow:
+
+![Resize buttons](gif/Timeline%20-%206%20resize%20btns.gif)
+
+
+#### Select, reorder, and scroll freely — horizontal and vertical:
+
+![Select and move elements](gif/Timeline%20-%207%20select%20%26%20move.gif)
+
+
+#### Customize background, button, and text colors to match your setup:
+
+![Color customization](gif/Timeline%20-%208%20color.gif)
 
 
 ## Requirements

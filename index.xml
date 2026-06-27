@@ -2,7 +2,7 @@
 <index version="1" name="FXPanel">
   <category name="FXPanel">
     <reapack name="FXPanel.lua" type="script" desc="FXPanel for Reaper">
-      <version name="1.0.6" author="Alexander Shchukin" time="2026-06-21T07:26:20Z">
+      <version name="1.0.6" author="Alexander Shchukin" time="2026-06-27T05:20:15Z">
         <source main="main">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/FXPanel.lua</source>
         <source file="dist/Data/main.lua">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/dist/Data/main.lua</source>
         <source file="FXPanel_defaults/comp.jpg">https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/FXPanel_defaults/comp.jpg</source>
@@ -37,7 +37,7 @@
 {\pard \ql \f0 \sb240 \sa120 \li0 \fi0 \b Support\b0\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Free to use. An optional supporter license (available on Gumroad) removes the donation reminder and supports continued development.\par}
 }]]></description>
-        <link rel="website">https://9938631577640.gumroad.com/l/gkkgxj</link>
+        <link rel="website">https://9938631577640.gumroad.com/l/gkkgxj?utm_source=reapack&amp;utm_medium=about</link>
       </metadata>
     </reapack>
   </category>

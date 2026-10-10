@@ -86,6 +86,11 @@ https://raw.githubusercontent.com/sashsvamir/reaper-fxpanel/main/index.xml
 **5. Open the panel** — Actions → Show action list → search for **FXPanel** → double-click to run. Optionally assign a keyboard shortcut or add it to a toolbar (right-click a toolbar button → Customize toolbar).
 
 
+## Updates
+
+FXPanel checks for a new version once a day by downloading the public package index from this repository — nothing is sent. When an update is out, an update icon (two circular arrows) appears in the panel's menu bar next to the ♥: click it to update through ReaPack, then reopen the panel.
+
+
 ## Support
 
 This panel is free. If it saves you time, you can support development on

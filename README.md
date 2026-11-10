@@ -93,7 +93,7 @@ FXPanel checks for a new version once a day by downloading the public package in
 
 ## Usage statistics
 
-Once per REAPER session, when the panel opens, FXPanel sends one anonymous request to [GoatCounter](https://www.goatcounter.com): FXPanel version, REAPER version, operating system and whether a supporter license is active. No IDs, cookies, plugin names or personal data are sent; GoatCounter uses the request's IP only to determine the country and does not store it. You can turn this off in **Menu → Settings → Send anonymous usage stats**.
+Once per REAPER session, when the panel opens, FXPanel sends one small request to [GoatCounter](https://www.goatcounter.com): FXPanel version, REAPER version, operating system and whether a supporter license is active. No IDs, cookies, plugin names or personal data are sent; GoatCounter uses the request's IP only to determine the country and does not store it. You can turn this off in **Menu → Settings → Help improve FXPanel**.
 
 
 ## Support
